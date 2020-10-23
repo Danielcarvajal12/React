@@ -1,0 +1,15 @@
+DOM, Virtual DOM y React DOM
+el virtual dom es una erramienta de react para darle performat y velosidad, es una copia fiel del dom
+que identifica cada uno de los elementos para manejarlos por separado
+
+npx nos permite instanciar un modulo que nos ayuda con la configuracion de react
+npx create-react-app -> para crear un proyecto angular
+hay 3 tipos de componentes stateful-stateless-precentacionales
+
+JSX
+esmuna forma en la que react hace para tener todo en el mismo componente 
+className-> es para asignar css con ract 
+
+el estado es un objeto en el cual le podemos definir todo tipo de variables
+
+babel es erramienta para crear js moderno para adecuarlo a todos los navegadores
